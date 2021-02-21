@@ -1,2 +1,2 @@
 # Neptune Architecture
-[diagram](diagram/diagram.svg)
+![diagram](diagram/diagram.svg)
