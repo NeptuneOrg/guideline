@@ -7,3 +7,5 @@ Only the strict minimum of data will be kept just to make the app work, nothing 
 ## Architecture
 We intend here to share the application architecture diagram as a representation of how the app is supposed to work 
 ![diagram](diagram/diagram.svg)
+## Contributing
+Please read [Contributing.md](https://github.com/NeptuneOrg/guideline/blob/main/CONTRIBUTING.md) before contributing.
