@@ -13,7 +13,7 @@ First, thank you for taking the time to read this document and for wanting to co
 
 [Additional Notes](#additional-notes)
 
-- [Join Neptune's Organization](#join-neptune's-organization)
+- [Join Neptune's Organization](#join-neptunes-organization)
   
 
 ## Styleguides
