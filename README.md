@@ -1,6 +1,6 @@
 # Neptune App
 
-## What is neptune ?
+## What is Neptune ?
 
 Neptune is a secure communication application, on the ethic aspect or the technical one.  You can chat with your friends, work with your team, all your daily tasks all of this knowing that your private data will be under your control.
 Peer to peer hashing and no log policy, everything to insure your anonymity.
